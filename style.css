@@ -107,14 +107,14 @@ nav li
 nav a
 {
     font-size: 1.3em;
-    color: #181818;
+    color: blue;
     padding-bottom: 3px;
     text-decoration: none;
 }
 
 nav a:hover
 {
-    color: blue;
+    color: #760001;
     border-bottom: 3px solid #760001;
 }
 
